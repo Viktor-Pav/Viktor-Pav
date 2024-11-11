@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viktor-Pav
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C# language 
-- 💞️ I’m looking to collaborate on Sasha & Dmytro
+- 💞️ I’m looking to collaborate with Sasha & Dmytro
 - 📫 How to reach me telegram Viktor
 - 😄 Pronouns: Our
 - ⚡ Fun fact: I am trying to learn something new for me right now
