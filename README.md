@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with Sasha & Dmytro
 - 📫 How to reach me telegram Viktor
 - 😄 Pronouns: Our
-- ⚡ Fun fact: I am trying to learn something new for me right now
+- ⚡ Fun fact: All the time, I am trying to learn something new for me right now
 
 <!---
 Viktor-Pav/Viktor-Pav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
