@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# language 
 - 💞️ I’m looking to collaborate with Sasha & Dmytro
 - 📫 How to reach me telegram Viktor
-- 😄 Pronouns: Our
+- 😄 Pronouns: Ours
 - ⚡ Fun fact: All the time, I am trying to learn something new for me right now
 
 <!---
