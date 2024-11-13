@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viktor-Pav
+- 👋 Hi, I’m Viktor
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C# language 
 - 💞️ I’m looking to collaborate with Sasha & Dmytro
